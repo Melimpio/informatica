@@ -7,3 +7,4 @@ portifólio de trabalhos desenvolvidos no curso GPI Fatec SJC
 [Custos.xlsx](https://github.com/user-attachments/files/19595914/Custos.xlsx)
 ## Quantidadedes de Alunos Estrangeiros
 ![Captura de tela 2025-03-24 134057](https://github.com/user-attachments/assets/40c120b6-4251-43ca-a8b4-74ea877d11c2)
+![Captura de tela 2025-04-03 204514](https://github.com/user-attachments/assets/b61573d2-bde7-4855-8d1a-c52be6471a6f)
