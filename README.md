@@ -16,3 +16,4 @@ portifólio de trabalhos desenvolvidos no curso GPI Fatec SJC
 
 ![Captura de tela 2025-04-03 205454](https://github.com/user-attachments/assets/ec062e28-fc70-4715-82b1-f95a1eae4364)
 ![Captura de tela 2025-04-07 193813](https://github.com/user-attachments/assets/b8f00362-1564-4777-8724-1d37a615ba4a)
+https://github.com/Melimpio/informatica/blob/main/Grafico%20powerbi.pbix
