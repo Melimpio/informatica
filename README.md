@@ -19,13 +19,25 @@ portifólio de trabalhos desenvolvidos no curso GPI Fatec SJC
 https://github.com/Melimpio/informatica/blob/main/Grafico%20powerbi.pbix
 
 ## PROJETO 1: VENDA DE SORVETES
-![Captura de tela 2025-05-26 125435](https://github.com/user-attachments/assets/93d10682-68dc-4c39-b8db-6ac163a87084)
+
 ![Captura de tela 2025-05-26 124755](https://github.com/user-attachments/assets/801b3e1d-0912-4861-84b7-b3769f782d0c)
 
+
+![Captura de tela 2025-05-26 125435](https://github.com/user-attachments/assets/6ae74562-1cc1-4ed7-b600-0cf2b3394641)
+
+![Captura de tela 2025-05-26 125435](https://github.com/user-attachments/assets/93d10682-68dc-4c39-b8db-6ac163a87084
+
+
+![Captura de tela 2025-05-26 125455](https://github.com/user-attachments/assets/0b49b86a-c656-4bbd-b9fe-a8f814cce480)
+
+
 ![Captura ![Captura de tela 2025-05-26 125520](https://github.com/user-attachments/assets/1b2ec78a-3efc-46ef-ae4d-81a99f047d7e)
+
 de tela 2025-05-26 125455](https://github.com/user-attachments/assets/a9c6ae10-367b-405d-b137-28ab4c9a1587)
 
-##PROJETO 2 CONSUMO DE CERVEJA
+
+
+## PROJETO 2 CONSUMO DE CERVEJA
 ![Captura de tela 2025-05-26 124830](https://github.com/user-attachments/assets/f5c0caee-6e8b-49ec-a0cd-92bd3a9518e1)
 
 ## PROJETO3:VENDAS DE CASAS
