@@ -17,3 +17,16 @@ portifólio de trabalhos desenvolvidos no curso GPI Fatec SJC
 ![Captura de tela 2025-04-03 205454](https://github.com/user-attachments/assets/ec062e28-fc70-4715-82b1-f95a1eae4364)
 ![Captura de tela 2025-04-07 193813](https://github.com/user-attachments/assets/b8f00362-1564-4777-8724-1d37a615ba4a)
 https://github.com/Melimpio/informatica/blob/main/Grafico%20powerbi.pbix
+
+## PROJETO 1: VENDA DE SORVETES
+![Captura de tela 2025-05-26 125435](https://github.com/user-attachments/assets/93d10682-68dc-4c39-b8db-6ac163a87084)
+![Captura de tela 2025-05-26 124755](https://github.com/user-attachments/assets/801b3e1d-0912-4861-84b7-b3769f782d0c)
+
+![Captura ![Captura de tela 2025-05-26 125520](https://github.com/user-attachments/assets/1b2ec78a-3efc-46ef-ae4d-81a99f047d7e)
+de tela 2025-05-26 125455](https://github.com/user-attachments/assets/a9c6ae10-367b-405d-b137-28ab4c9a1587)
+
+##PROJETO 2 CONSUMO DE CERVEJA
+![Captura de tela 2025-05-26 124830](https://github.com/user-attachments/assets/f5c0caee-6e8b-49ec-a0cd-92bd3a9518e1)
+
+## PROJETO3:VENDAS DE CASAS
+![Captura de tela 2025-05-26 124905](https://github.com/user-attachments/assets/12a5a316-d9cb-44d9-b1a4-35a02179f465)
