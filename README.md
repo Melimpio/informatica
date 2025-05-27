@@ -47,4 +47,7 @@ de tela 2025-05-26 125455](https://github.com/user-attachments/assets/a9c6ae10-3
 
 ![image](https://github.com/user-attachments/assets/986d9b6e-7474-474d-9165-abc89fbb49bc)
 
+![image](https://github.com/user-attachments/assets/d3e02bfd-05e6-494b-8d44-75e650cc3bff)
+
+
 
