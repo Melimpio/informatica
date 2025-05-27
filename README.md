@@ -43,3 +43,8 @@ de tela 2025-05-26 125455](https://github.com/user-attachments/assets/a9c6ae10-3
 
 ## PROJETO3:VENDAS DE CASAS
 ![Captura de tela 2025-05-26 124905](https://github.com/user-attachments/assets/12a5a316-d9cb-44d9-b1a4-35a02179f465)
+
+
+![image](https://github.com/user-attachments/assets/986d9b6e-7474-474d-9165-abc89fbb49bc)
+
+
