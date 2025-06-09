@@ -52,3 +52,5 @@ de tela 2025-05-26 125455](https://github.com/user-attachments/assets/a9c6ae10-3
 ## Grafico Panelas/Produtos e Sorvetes
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/melissa_olimpio_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos.xlsx?d=w5378412c98ae4f48ab16a0faa961c03c&csf=1&web=1&e=Ve4G05
 
+![{EB956721-B6B0-4D88-9789-311CCAC130BD}](https://github.com/user-attachments/assets/4ffbe377-1d69-471d-9e20-ab19ee948a79)
+
