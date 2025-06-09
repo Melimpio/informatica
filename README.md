@@ -57,3 +57,5 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/melissa_olimpio_fatec_sp_gov
 
 ![{464CA23F-9AD5-4F70-8026-AF24EDE86848}](https://github.com/user-attachments/assets/45513e83-1b4a-4ca4-8f18-c44d486fc657)
 
+## Grafici Sandálias
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/melissa_olimpio_fatec_sp_gov_br/Documents/Graf_K_sandalias_computador.xlsx%20mel.xlsx?d=wc5c7dc372ed440bda65479ab45a87d7d&csf=1&web=1&e=CDXRjw
