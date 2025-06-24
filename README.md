@@ -6,6 +6,7 @@ portifólio de trabalhos desenvolvidos no curso GPI Fatec SJC
 
 ## Segunda Atividade: Custos
 [Custos.xlsx](https://github.com/user-attachments/files/19595914/Custos.xlsx)
+https://fatecspgov.sharepoint.com/:x:/r/sites/PIIGPI-G5-20251/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B33014cf0-32ca-4782-b16e-aea00167e0eb%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1750781955298&web=1
 
 ![Captura de tela 2025-04-03 202004](https://github.com/user-attachments/assets/012c3d95-ea41-4460-9c43-173e7f60d698)
 
