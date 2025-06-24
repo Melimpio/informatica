@@ -47,6 +47,8 @@ de tela 2025-05-26 125455](https://github.com/user-attachments/assets/a9c6ae10-3
 
 ![image](https://github.com/user-attachments/assets/986d9b6e-7474-474d-9165-abc89fbb49bc)
 
+https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF168.A753.N.077.146.20251/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B9a4f1ad5-0643-4d0c-81ff-0c8328cb5d9e%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1750780919220&web=1
+
 ![image](https://github.com/user-attachments/assets/d3e02bfd-05e6-494b-8d44-75e650cc3bff)
 
 ## Grafico Panelas/Produtos e Sorvetes
