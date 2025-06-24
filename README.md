@@ -15,7 +15,9 @@ portifólio de trabalhos desenvolvidos no curso GPI Fatec SJC
 ![Captura de tela 2025-03-24 134057](https://github.com/user-attachments/assets/40c120b6-4251-43ca-a8b4-74ea877d11c2)
 
 ![Captura de tela 2025-04-03 205454](https://github.com/user-attachments/assets/ec062e28-fc70-4715-82b1-f95a1eae4364)
-![Captura de tela 2025-04-07 193813](https://github.com/user-attachments/assets/b8f00362-1564-4777-8724-1d37a615ba4a)
+![Captura de tela 2025-04-07 193813](https://github.com/user-attachments/assets/b8f00362-1564-4777-https://fatecspgov-my.sharepoint.com/:x:/r/personal/melissa_olimpio_fatec_sp_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B9f355fe0-7116-429a-b5ca-7c3aa55baa03%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1750781397048&web=18724-1d37a615ba4a)
+
+
 https://github.com/Melimpio/informatica/blob/main/Grafico%20powerbi.pbix
 https://fatecspgov-my.sharepoint.com/:x:/g/personal/claudiane_costa01_fatec_sp_gov_br/EasBmT9h4NVCpNIOsG6o4b4B_0XAVAslAc7MyUeD8PfPlw?wdOrigin=TEAMS-WEB.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1748273923192&web=1
 
