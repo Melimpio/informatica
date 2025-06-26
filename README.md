@@ -74,11 +74,12 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/melissa_olimpio_fatec_sp_gov
 
 ## POWER APPs
 
+
 ![{DF5FC05F-4A72-479B-8C52-198CD017B691}](https://github.com/user-attachments/assets/8bcb2e95-81a6-47e8-b3cb-59cd5770c746)
 
-
-
-
 https://github.com/user-attachments/assets/6b90690b-fa1f-41e9-bfd0-d46a4e1af591
+** Prova Informatica
 
+![Captura de tela 2025-06-26 203819](https://github.com/user-attachments/assets/c6509da1-119c-46ee-ad4b-1f13dfcf54c3)
 
+https://app.powerbi.com/groups/39274770-94be-4154-86d2-440c8d7d6163/reports/fff96c3f-0add-4a31-b58e-cf1bb395c999/a1626e45e401d89a56b4?language=pt-br&disableBranding=1&experience=power-bi
